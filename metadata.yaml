@@ -1,0 +1,26 @@
+_repo: The-Rise-of-Roscoe-Paine_3137
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Joseph Crosby
+    alias: Lincoln, Joseph C.
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '810'
+    url: http://www.gutenberg.org/2009/agents/810
+description: ''
+gutenberg_issued: '2006-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Massachusetts -- Fiction'
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+- GITenberg
+title: The Rise of Roscoe Paine
+url: http://www.gutenberg.org/ebooks/3137
